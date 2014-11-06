@@ -1,0 +1,4 @@
+hadoopism
+=========
+
+lets hadoop everything
